@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-06T14:10:19 IST" name="Suite" finished-at="2023-06-06T14:10:38 IST" duration-ms="18757">
+    <groups>
+    </groups>
+    <test started-at="2023-06-06T14:10:19 IST" name="Test" finished-at="2023-06-06T14:10:38 IST" duration-ms="18757">
+      <class name="com.automation_RestAPI_TestCases.DELETE_API_Request">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.automation_RestAPI_TestCases.DELETE_API_Request@1e683a3e]" started-at="2023-06-06T14:10:20 IST" name="beforeMethod" finished-at="2023-06-06T14:10:22 IST" duration-ms="2309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="deleteAPIRequest()[pri:0, instance:com.automation_RestAPI_TestCases.DELETE_API_Request@1e683a3e]" started-at="2023-06-06T14:10:22 IST" name="deleteAPIRequest" finished-at="2023-06-06T14:10:38 IST" duration-ms="16390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAPIRequest -->
+      </class> <!-- com.automation_RestAPI_TestCases.DELETE_API_Request -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

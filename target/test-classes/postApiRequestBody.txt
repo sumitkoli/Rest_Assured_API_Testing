@@ -1,0 +1,11 @@
+{
+    "firstname": "Tester",
+    "lastname": "Academy",
+    "totalprice": 1000,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2023-04-05",
+        "checkout": "2024-04-05"
+    },
+    "additionalneeds": "Breakfast"
+}

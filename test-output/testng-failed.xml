@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.automation_RestAPI_TestCases.PUT_API_Request">
+      <class name="com.automation_RestAPI_TestCases.POST_API_Request_Using_Pojos">
         <methods>
-          <include name="putAPIRequest"/>
+          <include name="postAPIRequest"/>
         </methods>
-      </class> <!-- com.automation_RestAPI_TestCases.PUT_API_Request -->
+      </class> <!-- com.automation_RestAPI_TestCases.POST_API_Request_Using_Pojos -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
